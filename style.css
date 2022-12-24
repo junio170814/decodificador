@@ -1,0 +1,132 @@
+.main {
+    position: relative;
+width: 1315px;
+height: 645px;
+
+background: #F3F5FC;
+}
+
+#icone {
+    position: absolute;
+    width: 31px;
+    height: 48px;
+    left: 44px;
+}
+
+#altera {
+    padding-top: 165px;
+    padding-left: 243px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+
+    color: #0A3871;
+}
+
+#digite {
+    position: absolute;
+    width: 680px;
+    height: 48px;
+    left: 240px;
+    top: 168px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+
+    color: #0A3871;
+}
+
+#botoes {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 680px;
+height: 67px;
+left: 240px;
+top: 555px;
+}
+
+#cripto {
+background-color: #0A3871;
+color: white;
+text-align: center;
+
+padding: 24px;
+gap: 8px;
+
+width: 328px;
+height: 67px;
+
+border-radius: 24px;
+}
+
+#descri {
+    background-color: #D8DFE8;
+    color: #0A3871;
+    text-align: center;
+    
+    padding: 24px;
+    gap: 8px;
+    
+    width: 328px;
+    height: 67px;
+    
+    border-radius: 24px;
+}
+
+#retangulo {
+position: absolute;
+width: 300px;
+height: 544px;
+left: 1000px;
+top: 40px;
+
+background: #FFFFFF;
+
+box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+border-radius: 32px;
+text-align: center;
+font-size: 30px;
+}
+
+#retangulo img {
+    padding-top: 50px;
+}
+#retangulo h1{
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+
+    padding-top: 50px;
+}
+
+#retangulo p {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#copia {
+background-color: #0A3871;
+color: white;
+text-align: center;
+
+padding: 24px;
+gap: 8px;
+
+width: 328px;
+height: 67px;
+
+border-radius: 24px;
+}
